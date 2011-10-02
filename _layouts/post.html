@@ -2,5 +2,5 @@
 layout: default
 ---
 
-<img class="centered" src="/images/{{ page.image }}" />
+{% if page.image %}<img class="centered" src="/images/{{ page.image }}" />{% endif %}
 {{ content }}
