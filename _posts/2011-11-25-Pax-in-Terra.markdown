@@ -4,10 +4,8 @@ title: Pax in Terra
 image: pax_in_terra.jpg
 ---
 
-The Capital Chamber Choir is pleased to announce their upcoming concert, _Pax in Terra_, featuring Timothy Corlis' _Missa Pax_. The concert will take place Friday, November 25th, 2011, at All Saints' Anglican Church (317 Chapel Street) in Sandy Hill, Ottawa. Advance tickets are available for $15 ($10 for students), and you can also buy them at the door for $20 ($15 for students). We hope to see you there!
+The Capital Chamber Choir held their concert, _Pax in Terra_, featuring Timothy Corlis' _Missa Pax_, on Friday, November 25th, 2011. Along with the _Missa Pax_, works by Patriquin, Daley, and Telfer were featured.
 
-* [Purchase tickets online!][1]
-* [Media release][2]
+* [Media release][1]
 
-[1]:http://www.eventbrite.com/event/2365180318
-[2]:media_release_november_2011.pdf
+[1]:media_release_november_2011.pdf
