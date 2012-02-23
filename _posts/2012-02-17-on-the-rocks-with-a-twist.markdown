@@ -4,6 +4,4 @@ title: On the Rocks With a Twist!
 image: on_the_rocks.jpg
 ---
 
-Join us for a very special evening with the Capital Chamber Choir, February 17th, 2012, 7:30pm, at the Empire Grill, 47 Clarence Street, Ottawa. Come and meet the artists and join in an evening of merriment! Music, canapes, and a silent auction will be yours to enjoy. [Get your tickets fast][1], as limited space is available!
-
-[1]: http://www.eventbrite.com/event/2606349662
+The Capital Chamber Choir held a very special evening February 17th, 2012, at the Empire Grill. _On the Rocks with a Twist_ was a smashing success, thanks to our sponsors, silent auction item providers, and supporters. We look forward to holding similar events in the future!
