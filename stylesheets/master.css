@@ -17,7 +17,7 @@ table#chorus th { border-bottom: solid 2px #f11; font-weight: bold; }
 table#chorus td { padding: 16px; }
 .centered { display: block; margin: 24px auto; }
 img#sara1 { display: block; float: left; margin-right: 20px; }
-img#sara2 { display: block; float: right; margin-left: 20px; }
+img#sara2 { display: block; float: right; margin-left: 20px; margin-bottom: 18px; }
 div#footer { margin: 18px auto; width: 84px; }
 div#footer a { display: block; float: left; padding: 0 5px; }
 .clearboth { clear: both; }
