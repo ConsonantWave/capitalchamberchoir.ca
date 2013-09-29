@@ -10,6 +10,7 @@ h1 { font: 54px MidoMedium; text-align: center; color: #f11; margin: 36px 0 24px
 h2 { font: 40px MidoMedium; text-align: center; color: #f11; margin: 18px 0; }
 h3 { font: 24px MidoMedium; text-align: center; color: #f11; margin: 16px 0; }
 p { margin: 18px 0; }
+.text-centered { text-align: center; }
 div.hr { height: 2px; background-color: #f11; margin: 0 auto; }
 iframe.yt { width: 480px; height: 360px; }
 th { font-weight: bold; }
