@@ -1,38 +1,14 @@
 ---
 layout: default
-title: 2013-2014 Season 
-linkName: concert
+title: Concerts
+linkName: concerts
 ---
 
-<p>The Capital Chamber Choir's 2013-14 season will be our busiest and most exciting yet! We will be performing programmes of diverse repertoire, collaborating with other local ensembles and musicians, and, as always, showcasing some of the finest music Canada (and Ottawa!) has to offer! Be sure to mark your calendars!</p>
- 
-<h3>Songs of Remembrance</h3>
-<p class="text-centered">
-	Sunday, November 3, 2013, 3:30pm<br />
-	St. Joseph's Church (Cumberland St. and Wilbrod St., Ottawa)
-</p>
-<p>The Capital Chamber Choir will join the Ottawa Regional Youth Choir for this concert featuring Faure's Requiem.</p>
-
-<h3><a href="/2013/12/06/requiem-et-lux.html">Requiem et Lux</a></h3>
-<p class="text-centered">
-	Friday, December 6, 2013, 8:00pm<br />
-	Knox Presbyterian Church (120 Lisgar St., Ottawa)
-</p>
-<p>As we look forward to the winter solstice and the holiday season, this concert will mark the transition from darkness to light with works by Gjeilo, Howells, Lauridsen, Whitacre, and Canadians Glick, Matthews, Morlock, and Togni.</p>
- 
-<h3>Schnittke Concerto</h3>
-<p class="text-centered">
-	Saturday, March 22, 2014<br />
-	St. Joseph's Church (Cumberland St. and Wilbrod St., Ottawa)
-</p>
-<p>The Ewashko Singers, Calixa-Lavalee Choir and Capital Chamber Choir will come together for this concert featuring Schnittke's choral concerto.</p>
-
-<h3>Spring concert</h3>
-<p class="text-centered">
-	Friday, May 2, 2014, 8:00pm<br />
-	TBD
-</p>
-<p>Our spring concert will showcase works by Ottawa-based composers.</p>
-
-<hr />
-<p><a href="/concerts_previous.html">Previous Concerts</a></p>
+{% for post in site.posts %}
+<h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+{% if post.image %}<img class="centered" src="/images/{{ post.image }}" />{% endif %}
+  {{ post.content }}
+  {% unless forloop.last %}
+    <div class="hr"></div>
+  {% endunless %}
+{% endfor %}
