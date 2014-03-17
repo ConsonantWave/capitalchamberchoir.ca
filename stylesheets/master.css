@@ -28,3 +28,4 @@ div#footer a { display: block; float: left; padding: 0 5px; }
 
 strong { font-weight: bold; }
 em { font-style: italic; }
+small { font-size: smaller }
