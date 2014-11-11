@@ -27,5 +27,5 @@ div#footer a { display: block; float: left; padding: 0 5px; }
 .clearboth { clear: both; }
 
 strong { font-weight: bold; }
-em { font-style: italic; }
+em, i { font-style: italic; }
 small { font-size: smaller }
