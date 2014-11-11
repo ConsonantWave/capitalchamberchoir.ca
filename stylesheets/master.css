@@ -1,14 +1,14 @@
-body { background-color: #100; color: #eee; font: 16px/24px AaarghNormal, Verdana, sans-serif; }
+body { background-color: #100; color: #eee; font: 18px/24px 'Alegreya Sans', sans-serif; }
 #page { width: 640px; margin: 0 auto; background-color: #322; padding: 10px; }
-#news { font: 16px/24px MidoMedium; margin: 0; text-align: right; }
-#nav { font: 22px/30px MidoMedium; text-align: center; color: #f11; border-top: solid 2px #eee; border-bottom: solid 2px #eee; margin: 6px 0; }
+#news { font: 20px/24px Rokkitt; margin: 0; text-align: right; }
+#nav { font: 24px/30px Rokkitt; text-align: center; color: #f11; border-top: solid 2px #eee; border-bottom: solid 2px #eee; margin: 6px 0; }
 a, a:active, a:visited { color: #f11; text-decoration: none; }
 a:hover { color: #f33; text-decoration: underline; }
 #nav a { padding: 0 5px; }
 #nav a.selected { text-decoration: none; color: #eee; }
-h1 { font: 54px MidoMedium; text-align: center; color: #f11; margin: 36px 0 24px 0; }
-h2 { font: 40px MidoMedium; text-align: center; color: #f11; margin: 18px 0; }
-h3 { font: 24px MidoMedium; text-align: center; color: #f11; margin: 16px 0; }
+h1 { font: 54px Rokkitt; text-align: center; color: #f11; margin: 24px 0 12px 0; }
+h2 { font: 40px Rokkitt; text-align: center; color: #f11; margin: 12px 0; }
+h3 { font: 24px Rokkitt; text-align: center; color: #f11; margin: 12px 0; }
 p { margin: 18px 0; }
 .text-centered { text-align: center; }
 div.hr { height: 2px; background-color: #f11; margin: 0 auto; }
