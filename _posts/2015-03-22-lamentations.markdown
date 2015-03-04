@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Lamentations
+image: lamentations.jpg
 ---
 
 Sunday, March 22, 2015 – 3pm     
