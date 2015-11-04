@@ -17,12 +17,13 @@ $5 advance purchase discount available from The Leading Note, via e-mail ([info@
 Will-call tickets may also be purchased via PayPal with the form below. Please bring a copy of your receipt when you arrive at the concert so that we can verify your purchase.
 
 <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
-	<input type="hidden" name="cmd" value="_s-xclick">
-	<input type="hidden" name="hosted_button_id" value="8XZKJ3MYPEKEC">
+	<input type="hidden" name="cmd" value="_s-xclick" />
+	<input type="hidden" name="hosted_button_id" value="8XZKJ3MYPEKEC" />
 	<table>
 		<tr>
 			<td>
-				<input type="hidden" name="on0" value="Midwinter Waking: Will-call tickets">Midwinter Waking: Will-call tickets
+				<input type="hidden" name="on0" value="Midwinter Waking: Will-call tickets" />
+				Midwinter Waking: Will-call tickets
 			</td>
 		</tr>
 		<tr>
@@ -35,7 +36,7 @@ Will-call tickets may also be purchased via PayPal with the form below. Please b
 			</td>
 		</tr>
 	</table>
-	<input type="hidden" name="currency_code" value="CAD">
-	<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
-	<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+	<input type="hidden" name="currency_code" value="CAD" />
+	<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!" />
+	<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1" />
 </form>
