@@ -10,11 +10,7 @@ The Capital Chamber Choir will perform a programme featuring Morten Lauridsen's 
 
 Tickets (available as of November 9, 2015)        
 $25 general admission; $15 students/seniors        
-$5 advance purchase discount available from The Leading Note, via e-mail ([info@capitalchamberchoir.ca][1]), and from choir members. 
-
-You can now purchase tickets online! Purchases can be made via PayPal using the form below.
-
-[1]:mailto:info@capitalchamberchoir.ca
+$5 advance purchase discount available from choir members, at The Leading Note and online:
 
 <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post" class="payPalForm">
 	<input type="hidden" name="cmd" value="_s-xclick" />
@@ -31,3 +27,5 @@ You can now purchase tickets online! Purchases can be made via PayPal using the 
 	<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!" />
 	<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1" />
 </form>
+
+Tickets purchased online will be held for pick-up at the door.
