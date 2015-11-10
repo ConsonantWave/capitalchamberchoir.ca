@@ -20,7 +20,7 @@ You can now purchase tickets online! Purchases can be made via PayPal using the 
 	<input type="hidden" name="cmd" value="_s-xclick" />
 	<input type="hidden" name="hosted_button_id" value="FPRN8LDJ7P37E" />
 	<table>
-		<tr><td><input type="hidden" name="on0" value="Will Call Tickets">Will Call Tickets</td></tr>
+		<tr><td><input type="hidden" name="on0" value="Will Call Tickets" />Will Call Tickets</td></tr>
 		<tr><td><select name="os0">
 			<option value="General Admission">General Admission $20.00 CAD</option>
 			<option value="Seniors">Seniors $10.00 CAD</option>
