@@ -8,24 +8,5 @@ St. Joseph’s Parish – 174 Wilbrod Street, Ottawa
 
 The Capital Chamber Choir will perform a programme featuring Morten Lauridsen's _Mid-Winter Songs_, as well as works by Ēriks Ešenvalds, Paul Mealor, Tarik O’Regan, and John Tavener.
 
-Tickets (available as of November 9, 2015)        
-$25 general admission; $15 students/seniors        
-$5 advance purchase discount available from choir members, at The Leading Note and online:
-
-<form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post" class="payPalForm">
-	<input type="hidden" name="cmd" value="_s-xclick" />
-	<input type="hidden" name="hosted_button_id" value="FPRN8LDJ7P37E" />
-	<table>
-		<tr><td><input type="hidden" name="on0" value="Will Call Tickets" />Will Call Tickets</td></tr>
-		<tr><td><select name="os0">
-			<option value="General Admission">General Admission $20.00 CAD</option>
-			<option value="Seniors">Seniors $10.00 CAD</option>
-			<option value="Students">Students $10.00 CAD</option>
-		</select> </td></tr>
-	</table>
-	<input type="hidden" name="currency_code" value="CAD" />
-	<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!" />
-	<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1" />
-</form>
-
-Tickets purchased online will be held for pick-up at the door.
+Tickets:  
+$25 general admission; $15 students/seniors
