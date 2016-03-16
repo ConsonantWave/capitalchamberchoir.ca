@@ -1,2 +1,3 @@
 exclude: [README]
 encoding: UTF-8
+future: true
