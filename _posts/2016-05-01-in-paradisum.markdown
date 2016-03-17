@@ -13,7 +13,8 @@ St. Joseph’s Parish – 174 Wilbrod Street, Ottawa
 	<table>
 		<tr>
 			<td>
-				<input type="hidden" name="on0" value="Will Call Tickets">Will Call Tickets
+				<input type="hidden" name="on0" value="Will Call Tickets">Will Call Tickets<br />
+				Tickets can be picked up at the door.
 			</td>
 		</tr>
 		<tr>
